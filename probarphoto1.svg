@@ -1,0 +1,29 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1417 2007" width="1417" height="2007">
+  <title>probar-pdf</title>
+  <defs>
+    <clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+      <path d="m0 0h1417v2007h-1417z"/>
+    </clipPath>
+  </defs>
+  <style>
+    .s0 { fill: none;stroke: #ff0000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2 }
+    .s1 { fill: none;stroke: #ffff00;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1 }
+    .s2 { fill: none;stroke: #5e5e5e;stroke-linecap: round;stroke-linejoin: round;stroke-width: .9 }
+    .s3 { fill: none;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.7 }
+    .s4 { fill: none;stroke: #989898;stroke-linecap: round;stroke-linejoin: round;stroke-width: .5 }
+    .s5 { fill: #989898;stroke: #989898;stroke-linecap: round;stroke-miterlimit:10;stroke-width: .5 }
+    .s6 { fill: none;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: .5 }
+    .highlight { stroke: #00ff00; stroke-width: 3; }
+    .highlight-bg { fill: #00ff00; opacity: 0.2; }
+  </style>
+  <g id="Page 1" clip-path="url(#cp1)">
+    <rect id="comedor-area" x="270" y="980" width="200" height="300" fill="transparent" pointer-events="all" />
+    <path id="Path 2" class="s0 comedor-wall" d="m278.4 1133.5h7v4.1h-7z"/>
+    <path id="Path 3" class="s1 comedor-wall" d="m281.3 1132h4.1m-2 0v-3m-2.1-43h4.1v1.4h-4.1zm0 46.1v1.4m4.1-1.4v1.4m-2-1.4h44.4m-44.4-3h44.4m0 3v-3m0.2-0.1c-0.3-23.2-19.3-41.7-42.4-41.5m-2.2 44.6v-44.6"/>
+    <path id="Path 4" class="s0 comedor-wall" d="m278.4 993.4h7v35.6h-7zm113.9-71.2h7.1v35.6h-7.1zm-142.5 64h35.6v7.2h-35.6zm-71.1 0h35.5v7.1h-35.5zm35.5 0h35.6v7.2h-35.6zm-42.7-64.1h7.2v35.6h-7.2z"/>
+    <path id="Path 5" class="s1 comedor-wall" d="m171.5 884.2h2.2m0-66.5h2m-4.2 33.2v33.3m2.2-66.5v66.5m2-66.5v-2.4m-4.2 2.4v-2.4m0 68.9v2.3m2.2-2.3h2v2.3m-2-68.8h-2.2m4.2 33.2v-33.2"/>
+    <path id="Path 11" class="s1 comedor-wall" d="m171.5 706.1h2.2m0-66.5h2m-4.2 33.1v33.4m2.2-66.5v66.5m2-66.5v-2.4m-4.2 2.4v-2.4m0 68.9v2.4m2.2-2.4h2v2.4m-2-68.9h-2.2m4.2 33.1v-33.1"/>
+    <path id="Path 24" class="s0 comedor-wall" d="m890.7 1135.9h35.7v7.1h-35.7zm35.7 0h35.6v7.2h-35.6zm35.6 0h35.6v7.1h-35.6zm35.6 0h35.5v7.2h-35.5zm35.5 0h35.6v7.1h-35.6zm170.9 7.2h7.2v35.6h-7.2zm0 35.6h7.2v35.6h-7.2zm0 35.5h7.2v35.6h-7.2zm0 35.6h7.2v35.6h-7.2zm0 35.6h7.2v35.8h-7.2zm0 35.7h7.2v35.6h-7.2zm0 35.6h7.2v35.6h-7.2z"/>
+    <!-- Add other paths and elements here -->
+  </g>
+</svg>
